@@ -7,7 +7,6 @@ This directory contains example models meant to test and demonstrate Mesa's feat
 A cellular automaton model where agents opinions are influenced by that of their neighbors. As the model evolves, color patches representing the prevailing opinion in a given area expand, contract, and sometimes disappear.
 
 ### ConwaysGameOfLife
-
 Implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), a cellular automata where simple rules can give rise to complex patterns.
 
 ### EpsteinCivilViolence

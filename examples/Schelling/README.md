@@ -42,3 +42,5 @@ Schelling's original paper describing the model:
 An interactive, browser-based explanation and implementation:
 
 [Parable of the Polygons](http://ncase.me/polygons/), by Vi Hart and Nicky Case.
+
+[Parable of the Polygons](http://ncase.me/polygons/), by Vi Hart and Nicky Case.
