@@ -37,5 +37,5 @@ Distribution. February, 2001.](https://editorialexpress.com/cgi-bin/conference/d
 
 [Dragulescu, A and Yakovenko, V. Statistical Mechanics of Money, Income, and
 Wealth: A Short Survey. November, 2002](http://arxiv.org/pdf/cond-mat/0211175v1.pdf)
-=======
+
 You will need to open the file as a Jupyter (aka iPython) notebook with an iPython 3 kernel. Required dependencies are listed in the provided `requirements.txt` file which can be installed by running `pip install -r requirements.txt`
